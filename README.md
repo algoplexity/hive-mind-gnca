@@ -72,6 +72,26 @@ This architecture is built upon specific, verified literature in Topological Dee
 
 ---
 
+## 📂 Repository Structure
+
+This repository is organized to bridge the gap between theoretical specifications and executable PyTorch implementations.
+
+```text
+├── docs/
+│   └── specs/                 # Theoretical blueprints and mathematical specifications
+│       └── 01_Financial_Boids_Spec.md  # Specification for the Continuous Market Herd model
+├── modules/
+│   └── gnca_continuous.py     # The Core Engine: Continuous State GNCA (Grattarola Replication)
+├── notebooks/                 # Experimental Laboratories
+│   ├── 01_Baseline_Contagion.ipynb     # Exp 1: Binary Strategy Convergence (The "Majority Vote")
+│   └── 02_Continuous_Herding.ipynb     # Exp 2: The Market Boids Simulation
+├── results/                   # Generated artifacts (GIFs, Phase Diagrams, Weights)
+├── developing-research.md     # The Living Lab Notebook: Literature review and hypothesis tracking
+└── requirements.txt           # Dependencies (PyTorch Geometric, NetworkX)
+```
+
+---
+
 ## 🔗 Citation
 
 ```bibtex
