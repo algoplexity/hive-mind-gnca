@@ -369,3 +369,104 @@ This acts as the perfect tagline for your project:
 *   **The Map (The PhD Network):** You are giving it "Street Addresses" (The Local Input).
 
 ---
+Here is the complete **Cyber-Physical Systems (CPS) Project Proposal**.
+
+It synthesizes the **societal mandate** of the Brookings Institution with the **hard science** of the Battiston/Nature paper. It frames your project not as a gadget, but as the physical instrumentation required to solve the "Physics of Collective Intelligence."
+
+***
+
+# Project Proposal: The Civic Resonator
+**Engineering Higher-Order Cybernetics for Collective Intelligence**
+
+**Student:** Yeu Wen Mak
+**Module:** Cyber-Physical Systems (MACYB)
+**Research Horizon:** Horizon 3 (The Civic Nervous System)
+
+---
+
+## 1. Executive Summary
+
+The **Brookings Institution** recently declared that *"AI is changing the physics of collective intelligence,"* identifying a critical failure in modern policymaking: the disconnection between the "Design-Minded" (human facilitators) and the "Model-Minded" (systems thinkers). They argue that without new infrastructure to bridge these worlds, **"Smart local actions can end up misaligned with efforts upstream or downstream"** [1].
+
+Simultaneously, cutting-edge research in *Nature Human Behaviour* by **Battiston et al. (2025)** reveals *why* our current digital tools fail to bridge this gap: they rely on pairwise (dyadic) interactions. The research proves that complex behavior change requires **"Higher-Order Interactions"**—threshold dynamics where influence depends on **"simultaneous exposure from multiple group members"** [2].
+
+**The Civic Resonator** is a cyber-physical prototype designed to synthesize these findings. It is a tabletop interface that uses **Graph Neural Cellular Automata (GNCA)** to physically detect and reinforce **Higher-Order Social Thresholds**. By translating the invisible "entropy of thought" [1] into visible, haptic feedback, it acts as a "Civic Thermostat," stewarding small groups away from linear noise and toward the non-linear coherence required for consensus.
+
+---
+
+## 2. Theoretical Framework
+
+### 2.1 The Societal Problem: "Rooms vs. Maps"
+Taylor (2025) identifies that policymaking suffers from a lack of live feedback. **"Rooms lack live maps; maps lack street addresses"** [1].
+*   *The Gap:* When we gather to solve problems, we have no real-time metric for the quality of our interaction. We drift into "Local Minima" [1] because we cannot sense the system's topology.
+
+### 2.2 The Scientific Solution: Simplicial Complexes
+Battiston et al. (2025) provide the physics to solve this. They demonstrate that social cohesion does not spread like a virus (Linear/Edge-based); it spreads like a crystal (Non-Linear/Simplicial).
+*   **The Mechanism:** A "Simplicial Complex" (a closed triangle of interaction) creates a **reinforcement loop** that dyadic pairs cannot.
+*   **The Engineering Mandate:** To build a CPS that fosters collective intelligence, we must engineer a **"Simultaneity Gate"**—a sensor that ignores individuals and only activates when a group reaches a specific *temporal* and *topological* threshold.
+
+---
+
+## 3. The Prototype: The Civic Resonator
+
+**The Artifact:** A communal, touch-sensitive object (The "Stone") placed at the center of a table. It is designed to facilitate the "Room + Model" synergy requested by Brookings.
+
+### 3.1 The "Inside" View (Technical Architecture)
+
+The device is a **Social-Cyber-Physical Loop** comprising three functional layers:
+
+#### **Layer A: The Simplicial Sensor (Input)**
+*   **Hardware:** 3x Capacitive Touch Points (Copper) + Microphone Array.
+*   **The Battiston Logic:** The system uses a **Non-Linear Gating Function**.
+    *   *Input:* Person A touches/speaks. $\to$ **System Ignore** (Linear/Dyadic noise).
+    *   *Input:* Person A, B, and C interact within a 50ms window. $\to$ **System Active** (Simplicial Complex detected).
+*   *Goal:* To physically enforce the "Simultaneous Exposure" [2] required for complex contagion.
+
+#### **Layer B: The GNCA Processor (The "Model" in the Room)**
+*   **Hardware:** Arduino Uno / ESP32.
+*   **The Algorithm:** A continuous **Graph Neural Cellular Automaton**.
+    *   It models the group as a cyclic graph ($A \to B \to C \to A$).
+    *   It applies a constant **Entropic Decay** (simulating the Brookings "Entropy of Thought").
+    *   **The Phase Transition:** Only when the "Simplicial Input" (Layer A) exceeds the "Entropic Decay," the GNCA state snaps from 0 (Chaos) to 1 (Soliton).
+
+#### **Layer C: The Ambient Actuator (Output)**
+*   **Hardware:** LED Ring (Neopixel) + Haptic Motor.
+*   **The Feedback:**
+    *   **Sub-Threshold:** The light is dim and chaotic (Rule 60).
+    *   **Threshold Met:** The light creates a stable, breathing "Standing Wave" (Rule 54) and the motor emits a coherent hum.
+*   *Goal:* To provide the "Live Map" [1] that reinforces the group's "Smart Local Action."
+
+---
+
+## 4. Alignment with CPS Learning Outcomes
+
+| Learning Outcome | Project Execution |
+| :--- | :--- |
+| **"Interrogate separate components"** | We will analyze the limitations of **Sensors** (can capacitance measure intent?) and **Actuators** (does light influence behavior?). We decompose the system into: *Social Graph (Humans)* $\leftrightarrow$ *Digital Graph (GNCA)*. |
+| **"Technological Constellations"** | The project explicitly links the **Hardware** (Arduino) to the **Sociological** (Brookings) and the **Mathematical** (Battiston). It demonstrates that a CPS is not just "chips and wires" but a constellation of human values and physical laws. |
+| **"Embody Values"** | The artifact embodies **Collective Agency**. By refusing to work for an individual, it physically encodes the value that *“Higher-order interactions drive collective behavior”* [2]. |
+| **"Making & Building"** | Deliverables include: 3D printed chassis, soldered sensor array, and C++ implementation of the GNCA logic. |
+| **"Work Integrated Learning"** | We will treat the testing phase as a **Mock Policy Summit**. We will observe if the *presence* of the Resonator changes the negotiation tactics of the participants (moving from adversarial to cooperative). |
+
+---
+
+## 5. The PhD Trajectory (Horizon 3)
+
+This Master's prototype is the atomic unit for a proposed PhD thesis: *Fractal Cybernetics.*
+
+While the **Civic Resonator** solves the "Local Minimum" [1] problem for a single group, the PhD will research **Renormalization**: connecting multiple Resonators to model how local consensus scales to global intelligence. This directly addresses the Brookings challenge of aligning "local actions" with "system-wide synergies," realizing the **Civic Nervous System** envisioned in the Algoplexity Roadmap.
+
+---
+
+## 6. References
+
+**[1] Taylor, J. (2025).** *It’s time for collective intelligence.* Brookings Institution.
+*Quote:* "The result is often what a modeler would call a 'local minimum'... Smart local actions can end up misaligned with efforts upstream or downstream."
+
+**[2] Battiston, F., et al. (2025).** *Higher-order interactions drive collective human behavior.* Nature Human Behaviour / Scienmag.
+*Quote:* "Real contagion often depends on reinforcement from groups... [and] simultaneous exposure from multiple group members."
+
+**[3] Mak, Y. W. (2025).** *The Algoplexity Research Program.* Horizon 3: The Civic Nervous System.
+
+---
+
