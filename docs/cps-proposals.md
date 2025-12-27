@@ -350,6 +350,7 @@ The Brookings article asks: *"How to harness the collective intelligence of an e
 > My proposed **Fractal Cybernetic System** ensures that an individual connects to a local group (The Stone), and the *group* connects to the network. This acts as a **Low-Pass Filter for Societal Entropy**, allowing 'Wisdom' to scale while dampening 'Panic'."
 
 This is a massive, philosophical, and engineering-heavy argument that perfectly positions you for a PhD in **Social Cybernetics**.
+
 ===
 You are referring to the specific friction between **local action** and **system-wide impact**.
 
