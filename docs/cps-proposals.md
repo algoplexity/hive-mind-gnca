@@ -86,6 +86,7 @@ This prototype is the "Vertical Slice" for a proposed PhD thesis: *Graph Neural 
 While the Master's prototype focuses on a single table (Local Coherence), the PhD will explore scaling this to **Networked Resonators**—modeling how "Rule 54" (Gridlock) or "Rule 60" (Panic) percolates through a network of town halls or banking systems, realizing the "Civic Nervous System" envisioned by the Algoplexity Research Program.
 
 I aim to pilot the Civic Resonator in the context of the Green Energy Transition. Specifically, conflicts like the Nelson Wetlands case (ABC, 2025) demonstrate the failure of dyadic negotiation. My research will test if 'Haptic Stewardship' can help these communities navigate the trade-off between Global Climate Action and Local Ecological Integrity without shattering social cohesion.
+
 ---
 
 ## 6. References
@@ -101,7 +102,9 @@ I aim to pilot the Civic Resonator in the context of the Green Energy Transition
 **[5] Hutter, M. (2005).** *Universal Artificial Intelligence: Sequential Decisions Based on Algorithmic Probability.* Springer Science & Business Media.
 
 **[6] Williams, C. F. (2025).** *Strategy as Ontology: A Quantum–Complex–Entropic–Adaptive Framework.* SSRN Electronic Journal.
+
 ---
+
 Here is the technical implementation plan for the **Civic Resonator**, specifically designed to be built using a standard **Arduino Kit**.
 
 This moves the project from "Abstract Theory" to "Physical Reality," satisfying the ANU Learning Outcome of *"Design, plan, execute, and document cyber-physical system prototypes."*
@@ -456,6 +459,8 @@ The device is a **Social-Cyber-Physical Loop** comprising three functional layer
 This Master's prototype is the atomic unit for a proposed PhD thesis: *Fractal Cybernetics.*
 
 While the **Civic Resonator** solves the "Local Minimum" [1] problem for a single group, the PhD will research **Renormalization**: connecting multiple Resonators to model how local consensus scales to global intelligence. This directly addresses the Brookings challenge of aligning "local actions" with "system-wide synergies," realizing the **Civic Nervous System** envisioned in the Algoplexity Roadmap.
+
+I aim to pilot the Civic Resonator in the context of the Green Energy Transition. Specifically, conflicts like the Nelson Wetlands case (ABC, 2025) demonstrate the failure of dyadic negotiation. My research will test if 'Haptic Stewardship' can help these communities navigate the trade-off between Global Climate Action and Local Ecological Integrity without shattering social cohesion.
 
 ---
 
