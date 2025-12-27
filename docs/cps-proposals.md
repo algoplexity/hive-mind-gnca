@@ -85,6 +85,7 @@ This prototype is the "Vertical Slice" for a proposed PhD thesis: *Graph Neural 
 
 While the Master's prototype focuses on a single table (Local Coherence), the PhD will explore scaling this to **Networked Resonators**—modeling how "Rule 54" (Gridlock) or "Rule 60" (Panic) percolates through a network of town halls or banking systems, realizing the "Civic Nervous System" envisioned by the Algoplexity Research Program.
 
+I aim to pilot the Civic Resonator in the context of the Green Energy Transition. Specifically, conflicts like the Nelson Wetlands case (ABC, 2025) demonstrate the failure of dyadic negotiation. My research will test if 'Haptic Stewardship' can help these communities navigate the trade-off between Global Climate Action and Local Ecological Integrity without shattering social cohesion.
 ---
 
 ## 6. References
